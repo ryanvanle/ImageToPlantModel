@@ -1,2 +1,4 @@
 plants
 .DS_STORE
+env
+venv
